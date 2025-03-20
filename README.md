@@ -11,4 +11,4 @@
 - Developed with **TypeScript** for better code structure and maintainability.
 - Interactive gameplay with simple click mechanics.
 ## URL
-https://dqv99v-1234.csb.app/
+https://xntr95-1234.csb.app/
